@@ -1,0 +1,15 @@
+Internet -> IP -> DNS 
+
+HTTP -> 80 PORT
+HTTPS -> 443 PORT
+
+
+HTML
+CSS
+JavaScript
+
+Web Assembly - C, C++, Rust etc.
+
+
+vnoit.com 
+www.vnoit.com 
