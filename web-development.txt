@@ -16,6 +16,8 @@ www.vnoit.com
 
 
 03/04/2020
+box-model.html page
+basic.html page
 
 heading tags
 p tag
@@ -31,4 +33,6 @@ text-shadow
 box-model - padding, margin, border
 
 04/04/2020
+stay-safe.html page
+
 box-shadow 
