@@ -13,3 +13,22 @@ Web Assembly - C, C++, Rust etc.
 
 vnoit.com 
 www.vnoit.com 
+
+
+03/04/2020
+
+heading tags
+p tag
+ol tag
+ul tag
+li tag
+
+a tag
+image
+style - element, id, class, pseudo-class
+font
+text-shadow
+box-model - padding, margin, border
+
+04/04/2020
+box-shadow 
