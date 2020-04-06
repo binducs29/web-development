@@ -16,6 +16,9 @@ www.vnoit.com
 
 
 03/04/2020
+HTML basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
+CSS basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
+
 box-model.html page
 basic.html page
 
@@ -36,3 +39,14 @@ box-model - padding, margin, border
 stay-safe.html page
 
 box-shadow 
+
+05/04/2020
+
+Mental model with stay-safe.html page
+
+
+06/04/2020
+
+CSS Flow Layout - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout
+block, inline - https://developer.mozilla.org/en-US/docs/Web/CSS/display
+
