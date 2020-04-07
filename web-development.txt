@@ -50,3 +50,19 @@ Mental model with stay-safe.html page
 CSS Flow Layout - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout
 block, inline - https://developer.mozilla.org/en-US/docs/Web/CSS/display
 
+07/04/2020
+
+source set (src-set) with src-set.html page
+
+NOTE: 
+1,92,233 bytes jpg (3X) 1,01,586 bytes webp
+54,164 bytes jpg (2X) 34,414 bytes webp
+19,154 bytes jpg (1X) 12,102 bytes webp
+
+We have save 1,80,131 bytes (18KB Approx*) for each user who is using out website, We should be proud of.
+We are saving worlds internet bandwidth!
+Happy Coding!
+
+Responsive images : https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
+Picture - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
+https://css-tricks.com/responsive-images-css/

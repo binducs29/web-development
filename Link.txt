@@ -1,3 +1,4 @@
 Later - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
 Later - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files
 
+Image Crop/Convert tool - https://squoosh.app/
