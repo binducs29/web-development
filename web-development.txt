@@ -66,3 +66,10 @@ Happy Coding!
 Responsive images : https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
 Picture - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
 https://css-tricks.com/responsive-images-css/
+
+
+08/04/2020
+
+img tag - img.html page
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img

@@ -5,3 +5,9 @@ display
 position 
 flex
 grid
+
+HTML
+table
+fonts
+form
+multimedia - Audio, Video

@@ -1,0 +1,3 @@
+img - ismap
+img - crossorigin
+img - sizes
