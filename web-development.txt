@@ -72,4 +72,10 @@ https://css-tricks.com/responsive-images-css/
 
 img tag - img.html page
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+img - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+
+09/04/2020
+
+html symantec - https://www.youtube.com/watch?v=naha1DIHK4E&t=746s
+position - https://developer.mozilla.org/en-US/docs/Web/CSS/position
+Position  - https://www.youtube.com/watch?v=jx5jmI0UlXU
