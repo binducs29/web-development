@@ -79,3 +79,10 @@ img - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
 html symantec - https://www.youtube.com/watch?v=naha1DIHK4E&t=746s
 position - https://developer.mozilla.org/en-US/docs/Web/CSS/position
 Position  - https://www.youtube.com/watch?v=jx5jmI0UlXU
+
+
+10/04/2020
+
+display - inline-block - display.html
+box-sizing - https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing - box-sizing.html
+background-clip - https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip - background-clip.html
