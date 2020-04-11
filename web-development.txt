@@ -86,3 +86,22 @@ Position  - https://www.youtube.com/watch?v=jx5jmI0UlXU
 display - inline-block - display.html
 box-sizing - https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing - box-sizing.html
 background-clip - https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip - background-clip.html
+
+
+11/04/2020
+
+border-style - https://developer.mozilla.org/en-US/docs/Web/CSS/border-style
+cursor - https://developer.mozilla.org/en-US/docs/Web/CSS/cursor
+Pseudo-classes - https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes - sudo-class.html - nth-sudo-class.html
+
+:active
+:hover
+:visited
+:first-of-type
+:last-of-type
+
+:nth-child()
+:nth-last-child()
+(odd, even, 4, 4n)
+
+
