@@ -104,4 +104,9 @@ Pseudo-classes - https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
 :nth-last-child()
 (odd, even, 4, 4n)
 
+new page design  - microsoft folder
 
+
+11/04/2020
+
+CSS Selectors - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors

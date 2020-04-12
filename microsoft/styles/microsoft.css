@@ -1,6 +1,9 @@
-.slider-wrapper {
+.container {
   margin: 0 auto;
-  width: 80%;
+  width: 90%;
+}
+
+.slider-wrapper {
   position: relative;
 }
 .slider-img {
@@ -14,19 +17,46 @@
 }
 
 .slider-content h1 {
-  font-size: 35px;
+  font-size: 46px;
+  margin-bottom: 20px;
+  font-weight: 600;
+  letter-spacing: 1px;
 }
 
 .slider-content p {
-  font-size: 20px;
+  font-size: 15px;
+  margin-bottom: 20px;
+  font-weight: 400;
 }
 
-.slider-content button {
+.slider-content a {
   background-color: #000000;
   color: #ffffff;
-  padding: 12px;
+  padding: 10px;
   font-size: 16px;
   border: none;
-  font-weight: bold;
-  width: 150px;
+  font-weight: 400;
+  min-width: 120px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+}
+
+.slider-content a:hover {
+  text-decoration: underline;
+  background-color: #1a1a1a;
+}
+
+.products {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.products img {
+  width: calc(25% - 15px);
+  margin-right: 16px;
+}
+
+.products img:nth-last-child(1) {
+  margin-right: 0px;
 }
