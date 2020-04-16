@@ -14,6 +14,9 @@ Web Assembly - C, C++, Rust etc.
 vnoit.com 
 www.vnoit.com 
 
+--------------------------------------------------------------------------
+
+
 
 03/04/2020
 HTML basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
@@ -35,20 +38,39 @@ font
 text-shadow
 box-model - padding, margin, border
 
+
+--------------------------------------------------------------------------
+
+
 04/04/2020
+
 stay-safe.html page
 
 box-shadow 
+
+
+--------------------------------------------------------------------------
+
 
 05/04/2020
 
 Mental model with stay-safe.html page
 
 
+
+--------------------------------------------------------------------------
+
+
+
 06/04/2020
 
 CSS Flow Layout - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout
 block, inline - https://developer.mozilla.org/en-US/docs/Web/CSS/display
+
+
+--------------------------------------------------------------------------
+
+
 
 07/04/2020
 
@@ -68,11 +90,19 @@ Picture - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture
 https://css-tricks.com/responsive-images-css/
 
 
+--------------------------------------------------------------------------
+
+
 08/04/2020
 
 img tag - img.html page
 
 img - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+
+
+--------------------------------------------------------------------------
+
+
 
 09/04/2020
 
@@ -80,12 +110,17 @@ html symantec - https://www.youtube.com/watch?v=naha1DIHK4E&t=746s
 position - https://developer.mozilla.org/en-US/docs/Web/CSS/position
 Position  - https://www.youtube.com/watch?v=jx5jmI0UlXU
 
+--------------------------------------------------------------------------
+
 
 10/04/2020
 
 display - inline-block - display.html
 box-sizing - https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing - box-sizing.html
 background-clip - https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip - background-clip.html
+
+
+--------------------------------------------------------------------------
 
 
 11/04/2020
@@ -106,7 +141,42 @@ Pseudo-classes - https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
 
 new page design  - microsoft folder
 
+--------------------------------------------------------------------------
+
 
 11/04/2020
 
 CSS Selectors - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
+
+
+--------------------------------------------------------------------------
+
+12/02/2020
+
+Microsoft pages design
+
+
+--------------------------------------------------------------------------
+
+13/02/2020
+
+Microsoft pages design
+
+
+--------------------------------------------------------------------------
+
+
+14/02/2020
+
+NPM, Firebase, Caching, PageSpeed and0 Deployment (for Microsoft pages design)
+
+
+--------------------------------------------------------------------------
+
+15/02/2020
+
+NPM Script, Build, HTML minify and CSS minify (for Microsoft pages design)
+
+--------------------------------------------------------------------------
+
+
