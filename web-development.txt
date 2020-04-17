@@ -179,4 +179,16 @@ NPM Script, Build, HTML minify and CSS minify (for Microsoft pages design)
 
 --------------------------------------------------------------------------
 
+16/02/2020
 
+Float, Form basics
+
+--------------------------------------------------------------------------
+
+17/02/2020
+
+Form and form design
+
+font - https://fonts.google.com/
+
+page - form-design.html, form-basics.html, input.html

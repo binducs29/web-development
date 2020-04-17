@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign Up</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        position: relative;
+        min-height: 100vh;
+        font-family: 'Roboto', sans-serif;
+      }
+      section {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border: 1px solid #dadce0;
+        padding: 40px 36px;
+        border-radius: 8px;
+        min-width: 600px;
+      }
+      section h1 {
+        font-weight: 100;
+      }
+      input {
+        padding: 10px 15px;
+        border-radius: 3px;
+        border: 1px solid #dadce0;
+      }
+      .full-width-input {
+        width: 100%;
+      }
+      .half-width-input {
+        width: calc(50% - 7px);
+      }
+      .half-width-input:first-child {
+        margin-right: 5px;
+      }
+      .half-width-input:last-child {
+        margin-left: 5px;
+      }
+      .input-wrapper {
+        margin-bottom: 20px;
+      }
+    </style>
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <section>
+      <img src="./images/svg/google.svg" alt="Google" />
+      <h1>Create your Google Account</h1>
+
+      <form>
+        <div class="input-wrapper">
+          <input
+            class="half-width-input"
+            type="text"
+            placeholder="First Name"
+          />
+          <input class="half-width-input" type="text" placeholder="Last Name" />
+        </div>
+        <div class="input-wrapper">
+          <input class="full-width-input" type="text" placeholder="Username" />
+        </div>
+      </form>
+    </section>
+  </body>
+</html>
