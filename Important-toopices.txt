@@ -15,3 +15,10 @@ multimedia - Audio, Video
 
 
 transform: translateY(-50%);
+
+animations
+media query best practices
+testing
+
+browser compatibility
+lighthouse

@@ -192,3 +192,17 @@ SVG, Form and form design
 font - https://fonts.google.com/
 
 page - form-design.html, form-basics.html, input.html
+
+
+18/02/2020
+
+CSS Variables 
+Theme switching
+
+--------------------------------------------------------------------------
+
+19/02/2020
+
+Form - Action(URL), Method
+
+
