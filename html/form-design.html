@@ -6,6 +6,7 @@
     <title>Sign Up</title>
     <style>
       * {
+        /* Universal selector */
         box-sizing: border-box;
       }
       body {
@@ -24,13 +25,21 @@
         border-radius: 8px;
         min-width: 600px;
       }
-      section h1 {
+      section > h1 {
+        /* Descendant combinator Selector */
         font-weight: 100;
       }
-      input {
+      input,
+      select {
+        /* Selector list Selector*/
         padding: 10px 15px;
         border-radius: 3px;
         border: 1px solid #dadce0;
+      }
+      input[type='submit'] {
+        color: #fff;
+        background-color: #1a73e8;
+        float: right;
       }
       .full-width-input {
         width: 100%;
@@ -46,6 +55,18 @@
       }
       .input-wrapper {
         margin-bottom: 20px;
+      }
+      .relative {
+        position: relative;
+      }
+      .username-suffix {
+        position: absolute;
+        top: 50%;
+        right: 15px;
+        transform: translateY(-50%);
+      }
+      #username {
+        padding-right: 110px;
       }
     </style>
     <link
@@ -64,11 +85,62 @@
             class="half-width-input"
             type="text"
             placeholder="First Name"
+            name="first-name"
           />
-          <input class="half-width-input" type="text" placeholder="Last Name" />
+          <input
+            class="half-width-input"
+            type="text"
+            placeholder="Last Name"
+            name="last-name"
+          />
         </div>
+        <div class="input-wrapper relative">
+          <input
+            id="username"
+            class="full-width-input"
+            type="text"
+            placeholder="Username"
+            name="username"
+          />
+          <span class="username-suffix">@gmail.com</span>
+        </div>
+
         <div class="input-wrapper">
-          <input class="full-width-input" type="text" placeholder="Username" />
+          <select name="gender" class="half-width-input">
+            <option value="">Gender</option>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+            <option value="others">Others</option>
+          </select>
+
+          <select name="marital-status" class="half-width-input">
+            <option value="">Marital status</option>
+            <option value="single">Single</option>
+            <option value="married">Married</option>
+            <option value="widow">Widow/Widower</option>
+          </select>
+        </div>
+
+        <div class="input-wrapper">
+          <p>Select a maintenance drone:</p>
+          <input type="radio" id="huey" name="drone" value="huey" />
+          <label for="huey">Huey</label>
+
+          <input type="radio" id="dewey" name="drone" value="dewey" />
+          <label for="dewey">Dewey</label>
+        </div>
+
+        <div class="input-wrapper">
+          <input
+            type="checkbox"
+            id="terms-and-conditions"
+            name="terms-and-conditions"
+          />
+          <label for="terms-and-conditions"
+            >I Agree for the terms and conditions</label
+          >
+
+          <input type="submit" value="Sign Up" />
         </div>
       </form>
     </section>

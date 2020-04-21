@@ -53,8 +53,8 @@
 }
 
 .products img {
-  width: calc(25% - 15px);
-  margin-right: 16px;
+  margin-right: 10px;
+  width: calc(33.3333333333% - 10px);
 }
 
 .products img:nth-last-child(1) {

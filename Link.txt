@@ -4,3 +4,5 @@ Later - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_
 Image Crop/Convert tool - https://squoosh.app/
 
 font - https://fonts.google.com/
+
+CSS Selectors - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
