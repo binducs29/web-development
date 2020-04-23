@@ -237,3 +237,16 @@ width 100% vs 100vw
 root-universal-selector.html
 What is the difference between * and :root functionalities?
 https://teamtreehouse.com/community/what-is-the-difference-between-and-root-functionalities
+
+--------------------------------------------------------------------------
+
+23/02/2020
+
+em - other then font size - em.html
+background image - bg-image.html
+table - table.html
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr
