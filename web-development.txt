@@ -250,3 +250,15 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr
+
+
+Video and audio
+
+
+--------------------------------------------------------------------------
+
+24/02/2020
+
+===========================================================================
+Daily Observing task (Code pen link) and explaining it and watch one yt video (colt) and explain
+===========================================================================
