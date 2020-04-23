@@ -21,6 +21,8 @@ transform: translateY(-50%);
 // animations - 28th 04 2020
 // grid - No for now
 
+:before
+:after
 =================================
 
 browser compatibility
