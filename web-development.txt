@@ -209,7 +209,7 @@ Form - Action(URL), Method
 
 20/02/2020
 
-No Class
+No Class - Not feeling well
 
 --------------------------------------------------------------------------
 
@@ -260,6 +260,22 @@ Video and audio
 24/02/2020
 
 Flex - https://www.youtube.com/watch?v=qZv-rNx0jEA&t=188s
+flex folder
+
+--------------------------------------------------------------------------
+
+25/02/2020 & 26/02/2020
+
+Internet problem 
+
+--------------------------------------------------------------------------
+
+27/02/2020
+
+Responsive Design & Media Queries - https://www.youtube.com/watch?v=na-X_SM8vg0&t=241s
+Observing task - https://codepen.io/machal/pen/aCBAr
+Media Queries - media-queries-v2
+
 
 ===========================================================================
 Daily Observing task (Code pen link) and explaining it and watch one yt video (colt) and explain
